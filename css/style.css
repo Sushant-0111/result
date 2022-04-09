@@ -1,0 +1,32 @@
+/* login.php */
+
+body{
+      background: url(../image/image.jpeg);
+} 
+ .nav-text{
+      color: #fff;
+}
+.login-nav{
+      background: black;
+      height: 70px;
+     
+}
+.login-box{
+      float: none;
+      max-width: 1200px;
+      margin: 150px auto;
+}
+
+.admin-right{
+      background: #fff;
+      padding: 30px;
+}
+
+.student-left{
+
+      background: rgba(211, 211, 211, 0.5);
+      padding: 30px;
+}
+
+    /*  */
+
